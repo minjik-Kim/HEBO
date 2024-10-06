@@ -1,0 +1,15 @@
+artifact_uri: file:///root/HEBO/RDUCB/mlruns/0/89a6cd4950ff47c49b6b3f802b43297e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89a6cd4950ff47c49b6b3f802b43297e
+run_name: righteous-lynx-841
+run_uuid: 89a6cd4950ff47c49b6b3f802b43297e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728181578517
+status: 1
+tags: []
+user_id: root
